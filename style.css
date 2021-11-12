@@ -33,5 +33,15 @@ float: right;
 color: orange;
 }
 
+.book 
+{
+    margin-bottom: 20px;
+}
+
+#contact iframe
+{
+    width: 100%;
+}
+
 
 
