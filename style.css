@@ -15,7 +15,7 @@ margin: 20px;
 }
 
 
-.movie_head
+.Filmes_head
 {
     font-size: 20px;
     padding: 6px 22px;
@@ -23,12 +23,12 @@ margin: 20px;
     margin-bottom: 15px;
 }
 
-.movie_head i
+.Filmes_head i
 {
 float: right;
 }
 
-.movie_text span
+.Filmes_text span
 {
 color: orange;
 }
